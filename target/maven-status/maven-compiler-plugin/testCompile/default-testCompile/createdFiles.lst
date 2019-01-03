@@ -1,4 +1,6 @@
-com/stackroute/AppTest.class
+com/stackroute/StudentTest.class
+com/stackroute/ValueTest.class
 com/stackroute/SetInterfaceTest.class
-com/stackroute/UpdateElementTest$ArrayListTest.class
+com/stackroute/OccurenceTest.class
 com/stackroute/UpdateElementTest.class
+com/stackroute/WordOccurenceTest.class

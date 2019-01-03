@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="599b9194-2aec-463b-a701-56c8bbec7eda" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/stackroute/StudentTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/stackroute/StudentTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/stackroute/UpdateElementTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/stackroute/UpdateElementTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/stackroute/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/stackroute/Student.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -12,30 +16,21 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/stackroute/StudentTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret lean-forward="true" />
+            <state relative-caret-position="415">
+              <caret line="80" lean-forward="true" selection-start-line="80" selection-end-line="80" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/stackroute/SetInterfaceTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/SetSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="21" column="26" lean-forward="true" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/stackroute/UpdateElementTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="10">
-              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+            <state relative-caret-position="165">
+              <caret line="13" column="19" lean-forward="true" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -43,35 +38,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/Student.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="415">
-              <caret line="52" column="5" lean-forward="true" selection-start-line="52" selection-start-column="5" selection-end-line="52" selection-end-column="5" />
+            <state relative-caret-position="435">
+              <caret line="41" column="31" lean-forward="true" selection-start-line="41" selection-start-column="31" selection-end-line="41" selection-end-column="31" />
               <folding>
-                <element signature="e#75#76#0" expanded="true" />
-                <element signature="e#98#99#0" expanded="true" />
-                <element signature="e#278#279#0" expanded="true" />
-                <element signature="e#303#304#0" expanded="true" />
-                <element signature="e#340#341#0" expanded="true" />
-                <element signature="e#368#369#0" expanded="true" />
-                <element signature="e#399#400#0" expanded="true" />
-                <element signature="e#426#427#0" expanded="true" />
-                <element signature="e#466#467#0" expanded="true" />
-                <element signature="e#498#499#0" expanded="true" />
-                <element signature="e#529#530#0" expanded="true" />
-                <element signature="e#555#556#0" expanded="true" />
-                <element signature="e#594#595#0" expanded="true" />
-                <element signature="e#624#625#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/StudentSorter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="17" column="46" lean-forward="true" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="46" />
-              <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#73#74#0" expanded="true" />
+                <element signature="e#104#105#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -93,14 +64,15 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/StudentSorterImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/Student.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/StudentSorter.java" />
         <option value="$PROJECT_DIR$/.idea/workspace.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/stackroute/UpdateElementTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/Student.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/stackroute/StudentTest.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="67" />
     <option name="y" value="25" />
     <option name="width" value="695" />
@@ -112,56 +84,55 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="pe5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pe5" type="462c0819:PsiDirectoryNode" />
+              <item name="PE5Test-1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PE5Test-1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="pe5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pe5" type="462c0819:PsiDirectoryNode" />
+              <item name="PE5Test-1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PE5Test-1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="pe5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pe5" type="462c0819:PsiDirectoryNode" />
+              <item name="PE5Test-1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PE5Test-1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="pe5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pe5" type="462c0819:PsiDirectoryNode" />
+              <item name="PE5Test-1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PE5Test-1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="pe5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pe5" type="462c0819:PsiDirectoryNode" />
+              <item name="PE5Test-1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PE5Test-1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="stackroute" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="pe5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pe5" type="462c0819:PsiDirectoryNode" />
+              <item name="PE5Test-1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PE5Test-1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="pe5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pe5" type="462c0819:PsiDirectoryNode" />
+              <item name="PE5Test-1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PE5Test-1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="pe5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pe5" type="462c0819:PsiDirectoryNode" />
+              <item name="PE5Test-1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PE5Test-1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -171,10 +142,11 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546509243533" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546514546917" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -193,7 +165,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.StudentTest">
+  <component name="RunManager" selected="JUnit.StudentTest.compare">
     <configuration name="StudentTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="pe5" />
       <extension name="coverage">
@@ -224,10 +196,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="UpdateElementTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="pe5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.UpdateElementTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.StudentTest" />
         <item itemvalue="JUnit.StudentTest.compare" />
+        <item itemvalue="JUnit.StudentTest" />
+        <item itemvalue="JUnit.UpdateElementTest" />
       </list>
     </recent_temporary>
   </component>
@@ -244,36 +231,75 @@
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="UpdateElementTest - 2019.01.03 at 16h 32m 24s.xml">
+      <configuration name="UpdateElementTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StudentTest_compare - 2019.01.03 at 16h 40m 56s.xml">
+      <configuration name="StudentTest.compare" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StudentTest - 2019.01.03 at 16h 41m 22s.xml">
+      <configuration name="StudentTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StudentTest - 2019.01.03 at 16h 41m 52s.xml">
+      <configuration name="StudentTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StudentTest - 2019.01.03 at 16h 42m 06s.xml">
+      <configuration name="StudentTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StudentTest - 2019.01.03 at 16h 46m 23s.xml">
+      <configuration name="StudentTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StudentTest - 2019.01.03 at 16h 47m 56s.xml">
+      <configuration name="StudentTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StudentTest - 2019.01.03 at 16h 49m 00s.xml">
+      <configuration name="StudentTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1533" height="875" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24949563" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2528581" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" visible="true" weight="0.3297587" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3297587" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3994638" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3297587" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3297587" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/stackroute/StudentTest.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
@@ -283,68 +309,58 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/StudentSorterImpl.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/StudentSorterImpl.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/stackroute/SetInterfaceTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="52" selection-start-line="2" selection-start-column="52" selection-end-line="2" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/stackroute/StudentTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="415">
-          <caret line="52" column="5" lean-forward="true" selection-start-line="52" selection-start-column="5" selection-end-line="52" selection-end-column="5" />
-          <folding>
-            <element signature="e#75#76#0" expanded="true" />
-            <element signature="e#98#99#0" expanded="true" />
-            <element signature="e#278#279#0" expanded="true" />
-            <element signature="e#303#304#0" expanded="true" />
-            <element signature="e#340#341#0" expanded="true" />
-            <element signature="e#368#369#0" expanded="true" />
-            <element signature="e#399#400#0" expanded="true" />
-            <element signature="e#426#427#0" expanded="true" />
-            <element signature="e#466#467#0" expanded="true" />
-            <element signature="e#498#499#0" expanded="true" />
-            <element signature="e#529#530#0" expanded="true" />
-            <element signature="e#555#556#0" expanded="true" />
-            <element signature="e#594#595#0" expanded="true" />
-            <element signature="e#624#625#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="210">
+          <caret line="21" column="26" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/StudentSorter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="17" column="46" lean-forward="true" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="46" />
+        <state relative-caret-position="210">
+          <caret line="17" column="46" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="46" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/stackroute/SetInterfaceTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/stackroute/UpdateElementTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="21" column="26" lean-forward="true" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+        <state relative-caret-position="270">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/stackroute/UpdateElementTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/SetSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        <state relative-caret-position="165">
+          <caret line="13" column="19" lean-forward="true" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="41" column="31" lean-forward="true" selection-start-line="41" selection-start-column="31" selection-end-line="41" selection-end-column="31" />
+          <folding>
+            <element signature="e#73#74#0" expanded="true" />
+            <element signature="e#104#105#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/stackroute/StudentTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="415">
+          <caret line="80" lean-forward="true" selection-start-line="80" selection-end-line="80" />
         </state>
       </provider>
     </entry>
   </component>
-
 </project>
-
