@@ -2,30 +2,32 @@ package com.stackroute;
 
 import org.junit.Test;
 
+import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.Set;
+import java.util.TreeSet;
 
 import static junit.framework.TestCase.assertEquals;
 
-public class SetInterfaceTest
-{
+public class SetInterfaceTest {
+    SetSort setSort = new SetSort();
 
-    SetInterface setInterface=new SetInterface();
 
     @Test
-    public void setInter()
-    {
-        String[] str={"Harry","Olive","Alice","Bluto","Eugene"};
-        Set set=new HashSet<String>();
+    public void setSortOne() {
+        String[] strings = {"Harry", "Olive", "Alice", "Bluto", "Eugene"};
+        TreeSet set = new TreeSet();
         set.add("Alice");
         set.add("Bluto");
         set.add("Eugene");
         set.add("Harry");
         set.add("Olive");
+        assertEquals(set, setSort.setSort(strings));
 
+        ArrayList<String> arrayList = new ArrayList<>();
+        arrayList.addAll(set);
 
-
-        assertEquals(set,setInterface.setSort(str));
+        assertEquals(arrayList, setSort.setSortArr(set));
 
     }
 }
