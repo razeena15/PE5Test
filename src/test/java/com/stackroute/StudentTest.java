@@ -64,11 +64,11 @@ public class StudentTest {
             studentList.add(studentObj5);
 
             List<Student> expected= new ArrayList<>();
-            expected.add(studentObj5);
-            expected.add(studentObj3);
+            expected.add(studentObj1);
             expected.add(studentObj4);
             expected.add(studentObj2);
-            expected.add(studentObj1);
+            expected.add(studentObj3);
+            expected.add(studentObj5);
 //   System.out.println(expected);
 
 
