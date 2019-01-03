@@ -12,41 +12,41 @@ import static org.junit.Assert.*;
 
 public class StudentTest {
     List<Student> studentList;
-        Student studentObj1;
-        Student studentObj2;
-        Student studentObj3;
-        Student studentObj4;
-        Student studentObj5;
+        Student student1;
+        Student student2;
+        Student student3;
+        Student student4;
+        Student student5;
 
 
         @Before
         public void setUp() throws Exception {
             studentList=new ArrayList<Student>();
 
-            studentObj1=new Student();
-            studentObj1.setId(11);
-            studentObj1.setName("Dany");
-            studentObj1.setAge(35);
+            student1=new Student();
+            student1.setId(11);
+            student1.setName("Dany");
+            student1.setAge(35);
 
-            studentObj2=new Student();
-            studentObj2.setId(12);
-            studentObj2.setName("Austin");
-            studentObj2.setAge(25);
+            student2=new Student();
+            student2.setId(12);
+            student2.setName("Austin");
+            student2.setAge(25);
 
-            studentObj3=new Student();
-            studentObj3.setId(13);
-            studentObj3.setName("Elle");
-            studentObj3.setAge(2);
+            student3=new Student();
+            student3.setId(13);
+            student3.setName("Elle");
+            student3.setAge(2);
 
-            studentObj4=new Student();
-            studentObj4.setId(14);
-            studentObj4.setName("Catherine");
-            studentObj4.setAge(28);
+            student4=new Student();
+            student4.setId(14);
+            student4.setName("Catherine");
+            student4.setAge(28);
 
-            studentObj5=new Student();
-            studentObj5.setId(15);
-            studentObj5.setName("Alaia");
-            studentObj5.setAge(1);
+            student5=new Student();
+            student5.setId(15);
+            student5.setName("Alaia");
+            student5.setAge(1);
 
 
         }
@@ -57,19 +57,28 @@ public class StudentTest {
 
         @Test
         public void compare() {
-            studentList.add(studentObj1);
-            studentList.add(studentObj2);
-            studentList.add(studentObj3);
-            studentList.add(studentObj4);
-            studentList.add(studentObj5);
+            studentList.add(student1);
+            studentList.add(student2);
+            studentList.add(student3);
+            studentList.add(student4);
+            studentList.add(student5);
 
             List<Student> expected= new ArrayList<>();
+<<<<<<< HEAD
             expected.add(studentObj1);
             expected.add(studentObj4);
             expected.add(studentObj2);
             expected.add(studentObj3);
             expected.add(studentObj5);
 //   System.out.println(expected);
+=======
+            expected.add(student1);
+            expected.add(student4);
+            expected.add(student2);
+            expected.add(student3);
+            expected.add(student5);
+//  System.out.println(expected);
+>>>>>>> 38588559d907eac2fb67cc8b06e7fa8292634d19
 
 
             assertEquals(expected,new StudentSorter().sortingStudent(studentList));
