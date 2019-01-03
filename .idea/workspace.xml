@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="90e6e0a2-8d4b-45c5-a2d4-a741be4435f8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -17,20 +17,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/stackroute/SetInterfaceTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="30" column="1" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/stackroute/StudentTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="556">
-              <caret line="73" selection-start-line="73" selection-end-line="73" />
+
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -66,6 +53,7 @@
         <option value="$PROJECT_DIR$/src/test/java/com/stackroute/UpdateElementTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/stackroute/WordOccurenceTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/WordOccurence.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/SetSort.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/stackroute/SetInterfaceTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/stackroute/StudentTest.java" />
       </list>
@@ -408,8 +396,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/SetInterface.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/com/stackroute/SetInterfaceTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="1" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -418,8 +405,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/stackroute/StudentTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="556">
-          <caret line="73" selection-start-line="73" selection-end-line="73" />
+
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
