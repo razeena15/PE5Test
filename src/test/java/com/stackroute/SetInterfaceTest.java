@@ -10,7 +10,7 @@ import java.util.TreeSet;
 import static junit.framework.TestCase.assertEquals;
 
 public class SetInterfaceTest {
-    SetInterface setSort = new SetInterface();
+    SetSort setSort = new SetSort();
 
 
     @Test
