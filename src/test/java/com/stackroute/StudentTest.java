@@ -25,28 +25,28 @@ public class StudentTest {
 
             studentObj1=new Student();
             studentObj1.setId(11);
-            studentObj1.setName("durga");
-            studentObj1.setAge(21);
+            studentObj1.setName("Dany");
+            studentObj1.setAge(35);
 
             studentObj2=new Student();
             studentObj2.setId(12);
-            studentObj2.setName("james");
-            studentObj2.setAge(22);
+            studentObj2.setName("Austin");
+            studentObj2.setAge(25);
 
             studentObj3=new Student();
             studentObj3.setId(13);
-            studentObj3.setName("madhu");
-            studentObj3.setAge(23);
+            studentObj3.setName("Elle");
+            studentObj3.setAge(2);
 
             studentObj4=new Student();
             studentObj4.setId(14);
-            studentObj4.setName("anagha");
-            studentObj4.setAge(23);
+            studentObj4.setName("Catherine");
+            studentObj4.setAge(28);
 
             studentObj5=new Student();
             studentObj5.setId(15);
-            studentObj5.setName("james");
-            studentObj5.setAge(24);
+            studentObj5.setName("Alaia");
+            studentObj5.setAge(1);
 
 
         }
@@ -72,9 +72,9 @@ public class StudentTest {
 //   System.out.println(expected);
 
 
-            assertEquals(expected,new Student().sortingStudent(studentList));
+            assertEquals(expected,new StudentSorter().sortingStudent(studentList));
 
 
         }
     }
-}
+
