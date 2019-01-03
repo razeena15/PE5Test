@@ -64,21 +64,16 @@ public class StudentTest {
             studentList.add(student5);
 
             List<Student> expected= new ArrayList<>();
-<<<<<<< HEAD
-            expected.add(studentObj1);
-            expected.add(studentObj4);
-            expected.add(studentObj2);
-            expected.add(studentObj3);
-            expected.add(studentObj5);
-//   System.out.println(expected);
-=======
+
+            
+
             expected.add(student1);
             expected.add(student4);
             expected.add(student2);
             expected.add(student3);
             expected.add(student5);
 //  System.out.println(expected);
->>>>>>> 38588559d907eac2fb67cc8b06e7fa8292634d19
+
 
 
             assertEquals(expected,new StudentSorter().sortingStudent(studentList));
